@@ -1,3 +1,3 @@
-### Hello People, This is Harsh👋
+### Hello, This is Harsh👋
 
 
