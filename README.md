@@ -3,7 +3,7 @@
 ### Hello, there👋
 
 <p>
-  <img width="250" align='left' src="https://i.ibb.co/pdHt0WP/Pics-Art-05-03-11-20-31.png">
+  <img width="250" align='left' src="https://i.ibb.co/NFKr8Ds/Pics-Art-05-03-11-20-31.png">
 </p>
 <p style="font-family: 'Poppins', sans-serif;">
 This is Harsh a Software enthusiast and a big Programing fan. I am currently learning more and more about Computer Architectures and Systems, I am an Open-Source lover and I really love researched based projects.
