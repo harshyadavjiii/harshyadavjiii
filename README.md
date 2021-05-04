@@ -5,7 +5,7 @@
 ### Hello, This is Harsh👋
 
 <p>
-<img width="250" align="left" src="https://i.ibb.co/dGKgmrw/small-avatar-png.png">
+<img width="250" align="left" src="https://i.ibb.co/TtQVvKT/Avatar.png">
 </p>
 
 <p>
