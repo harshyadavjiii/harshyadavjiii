@@ -20,5 +20,5 @@ I am good at making websites and Mobile Apps.
 
 <p>I am a CSE Undergrad, Currently I am studying and learning mainly about Computer Architectures and Working of computer Systems. 
 It was always my passion to being in the machine to instruct the hardware on the lowest layer of compilation. 
-Other than that I love to make Websites and Mobile Applications too but for fun. 
+Other than that I love to make Websites and Mobile Application but for fun. 
 </p>
