@@ -17,6 +17,6 @@ In these days I mainly use C and Assembly for most of the stuff I do.
 
 ### What I do 👨‍💻👨‍💻👨‍💻 ?
 
-<p>I am a Undergrad, Currently I am studying and learning mainly about Computer Architectures and Working of computer Systems. 
+<p>I am an Undergrad, Currently I am studying and learning mainly about Computer Architectures and Working of computer Systems. 
 It was always my passion to being in the machine to instruct the hardware on the lowest layer of compilation. 
 </p>
