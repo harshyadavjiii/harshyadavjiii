@@ -5,15 +5,13 @@
 ### Hello, This is Harsh👋
 
 <p>
-<img width="250" align="left" src="https://i.ibb.co/TtQVvKT/Avatar.png">
+<img width="250" align="left" src="https://user-images.githubusercontent.com/52949057/209769436-6f7568e5-131b-47da-ae26-d2173eb86927.png">
 </p>
 
 <p>
 A Software enthusiast and a big Programing fan. I am currently learning more and more about Computer💻 Architectures and Systems, I am an Open-Source lover and I really ❤ researched based projects.
 In these days I mainly use C and Assembly for most of the stuff I do.
 </p>
-
-  ---
 
 ### What I do 👨‍💻👨‍💻👨‍💻 ?
 
