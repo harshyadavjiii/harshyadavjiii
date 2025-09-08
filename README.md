@@ -9,12 +9,15 @@
 </p>
 
 <p>
-A Software enthusiast and a big Programing fan. I am currently learning more and more about Computer💻 Architectures and Systems, I am an Open-Source lover and I really ❤ researched based projects.
-In these days I mainly use C and Assembly for most of the stuff I do.
+  I am an aspiring AI and Machine Learning expert with a passion for mathematics, programming, and data-driven problem-solving. 
+  For me, code is more than syntax. it’s a way of thinking, a bridge between logic and imagination. Math fuels my curiosity, 
+  shaping how I approach patterns, algorithms, and real-world challenges. 
+  I dream of building systems that not only learn and adapt but also create meaningful impact.
 </p>
 
 ### What I do 👨‍💻👨‍💻👨‍💻 ?
 
-<p>I am an Undergrad, Currently I am studying and learning mainly about Computer Architectures and Working of computer Systems. 
-It was always my passion to being in the machine to instruct the hardware on the lowest layer of compilation. 
+<p>
+  Every project I take on is a step toward merging mathematics, code, and 
+  creativity into solutions that inspire change and push the boundaries of what’s possible in AI and data science.
 </p>
