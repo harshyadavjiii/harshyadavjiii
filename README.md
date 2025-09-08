@@ -15,9 +15,13 @@
   I dream of building systems that not only learn and adapt but also create meaningful impact.
 </p>
 
-### What I do 👨‍💻👨‍💻👨‍💻 ?
-
 <p>
   Every project I take on is a step toward merging mathematics, code, and 
   creativity into solutions that inspire change and push the boundaries of what’s possible in AI and data science.
+</p>
+
+### What I do 👨‍💻👨‍💻👨‍💻 ?
+
+<p>
+  Pursuing advanced studies in Artificial Intelligence, Machine Learning, and Data Science to build intelligent systems and solve complex problems
 </p>
