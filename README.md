@@ -23,6 +23,6 @@
 ### What I do 👨‍💻👨‍💻👨‍💻 ?
 
 <p>
-  Pursuing advanced studies in Artificial Intelligence, Machine Learning, and Data Science 
+  Pursuing advanced studies in Artificial Intelligence, Machine Learning, and Data Science<br> 
   to build intelligent systems and solve complex problems
 </p>
