@@ -1,12 +1,12 @@
 ![alt text](https://i.ibb.co/Czf4Fhj/Pics-Art-05-03-07-30-56.png) 
 
   ---
-<h1 align="center">
+<h3 align="center">
   Hello, This is Harsh👋
-</h1>
+</h3>
 
 <p>
-<img width="100" align="left" src="https://user-images.githubusercontent.com/52949057/209769436-6f7568e5-131b-47da-ae26-d2173eb86927.png">
+<img width="200" align="left" src="https://user-images.githubusercontent.com/52949057/209769436-6f7568e5-131b-47da-ae26-d2173eb86927.png">
 </p>
 
 <p>
